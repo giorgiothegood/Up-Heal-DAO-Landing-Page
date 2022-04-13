@@ -1,4 +1,6 @@
-The goal of Up Heal DAO Landing page repo is to create a modern website for funding Mental Health organisations and initiatives. It's a design work, clean and safe, where I'll send Figma files.
+Greetings.
+
+In this work, I create the landing page of **Up Heal DAO**, following the topics above.
 
 #### Goals / Product Requirement :dart:
 
@@ -16,3 +18,5 @@ The goal of Up Heal DAO Landing page repo is to create a modern website for fund
 3. Icons by Material Design
 4. Work by Giorgio Totti, where all kind of feedbacks are welcome
 
+
+Thank you.
